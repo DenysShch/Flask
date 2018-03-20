@@ -1,0 +1,3 @@
+flask
+Flask-RESTFUL
+Flask-JWT
